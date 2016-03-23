@@ -7,3 +7,5 @@
 There is a comment ' <!--START EDITING HERE--> and <!--STOP EDITING HERE--> ' please limit the editing to within these two comments. 
 
 ####When you're done comment the changes made here!
+
+###Give me a smaller image with weblusion on it for GIT hub. Ok!
